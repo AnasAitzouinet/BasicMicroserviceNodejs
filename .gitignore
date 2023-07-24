@@ -3,3 +3,4 @@ node_modules
 
 # ignonre node_modules in each folder
 **/node_modules
+**/.env
